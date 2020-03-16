@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<!--  Tom Good
+      Project 3
+      12/14/2018-->
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Lab 13.1</title>
+	<meta charset="utf-8">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+
+<body>
+<div class="container">
+	<header class="jumbotron">
+	  <h1>Project 3 - Tom Good</h1>
+	</header>
+
+	  <nav class="navbar navbar-inverse">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse"
+            data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">IT@MATC</a>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="degrees.html">Degree Listings</a></li>
+          <li><a href="feedback.html">Feedback</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+          <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+        </ul>
+      </div>
+	  </nav>
+
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/android-applications-development"><h3>IT-Android Applications Development</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/cisco-networking"><h3>IT-Cisco Certified Networking Associate (CCNA)</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/cisco-entry-networking"><h3>IT-Cisco Entry Networking Technician</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/comptia"><h3>IT-CompTIA A+ Computer Essentials</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/hdi-customer-service"><h3>IT-HDI Support Center Analyst</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box oytd car_int_39 isotope-item">
+          <a href="https://madisoncollege.edu/program/help-desk-support"><h3>IT-Help Desk Support Specialist</h3></a>
+          <p>One Year Technical Diploma</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/information-security"><h3>IT-Information Security</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/ios-applications-development"><h3>IT-iOS Applications Development</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/java-developer"><h3>IT-Java Professional Programming</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/lamp-open-source-development"><h3>IT-LAMP Open Source Development</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/microsoft-technologies"><h3>IT-Microsoft Technologies</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/microsoft-visual-studio"><h3>IT-Microsoft Visual Studio.Net</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box adas car_int_39 isotope-item">
+          <a href="https://madisoncollege.edu/program/mobile-applications-developer"><h3>IT-Mobile Applications Developer</h3></a>
+          <p>Associate Degree in Applied Science</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box adas car_int_39 isotope-item">
+          <a href="https://madisoncollege.edu/program/network-security-specialist"><h3>IT-Network Security Specialist</h3></a>
+          <p>Associate Degree in Applied Science</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box adas car_int_39 isotope-item">
+          <a href="https://madisoncollege.edu/program/network-specialist"><h3>IT-Network Specialist</h3></a>
+          <p>Associate Degree in Applied Science</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/php-web-developer"><h3>IT-PHP Professional Web Developer</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box adas car_int_39 isotope-item">
+          <a href="https://madisoncollege.edu/program/systems-administration-specialist"><h3>IT-Systems Administration Specialist</h3></a>
+          <p>Associate Degree in Applied Science</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box">
+          <a href="https://madisoncollege.edu/program/vmware"><h3>IT-VMware Certified Professional</h3></a>
+          <p>Certificate</p>
+        <!-- /Program -->
+
+
+        <!-- Program -->
+        <div class="program-box adas car_int_39 isotope-item">
+          <a href="https://madisoncollege.edu/program/web-software-developer"><h3>IT-Web Software Developer</h3></a>
+          <p>Associate Degree in Applied Science</p>
+        <!-- /Program -->
+
+
+    <footer>
+      152-121 Advanced Website Development
+    </footer>
+
+</div>
+</body>
+</html>
